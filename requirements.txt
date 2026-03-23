@@ -28,11 +28,12 @@ tgcrypto
 telegraph==2.2.0
 yt-dlp
 lexica-api==1.5.9
-httpx==0.27.0
+httpx>=0.28.1
 openai==1.41.0
 lyricsgenius==3.0.0
 spotipy
 SafoneAPI
+py-yt-search
 youtube_search
 youtube-search-python
 googlesearch-python
